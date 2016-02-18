@@ -1,3 +1,4 @@
-This is a slimmed version of "nettle-3.2" crypto library source.
-The source can be licensed under any of the GPLv2, GPLv3, or LGPLv3.
-We choose GPLv2 for embedding within our project.
+This is a slimmed version of "nettle-3.2" package,
+which contains the GNU Nettle low-level cryptographic library.
+Nettle is dual licensed under both GPLv2+ and LGPLv3+.
+The applicable licenses can be found in the included COPYING* files.
